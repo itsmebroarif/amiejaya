@@ -1,0 +1,63 @@
+Inner Component : 
+    <section id="catalog-product" class="mt-4">
+      <div class="container">
+        <h2 class="text-center mb-4">Katalog Produk Motor</h2>
+        <div class="row row-cols-1 row-cols-md-4 g-4">
+          <!-- Card 1 -->
+          <div class="col">
+            <div class="card h-100">
+              <img
+                src="assets/img/motor1.jpg"
+                class="card-img-top"
+                alt="Motor 1"
+              />
+              <div class="card-body text-center">
+                <h5 class="card-title">Motor A</h5>
+              </div>
+            </div>
+          </div>
+          <!-- Card 2 -->
+          <div class="col">
+            <div class="card h-100">
+              <img
+                src="assets/img/motor2.jpg"
+                class="card-img-top"
+                alt="Motor 2"
+              />
+              <div class="card-body text-center">
+                <h5 class="card-title">Motor B</h5>
+              </div>
+            </div>
+          </div>
+          <!-- Card 3 -->
+          <div class="col">
+            <div class="card h-100">
+              <img
+                src="assets/img/motor3.jpg"
+                class="card-img-top"
+                alt="Motor 3"
+              />
+              <div class="card-body text-center">
+                <h5 class="card-title">Motor C</h5>
+              </div>
+            </div>
+          </div>
+          <!-- Card 4 -->
+          <div class="col">
+            <div class="card h-100">
+              <img
+                src="assets/img/motor4.jpg"
+                class="card-img-top"
+                alt="Motor 4"
+              />
+              <div class="card-body text-center">
+                <h5 class="card-title">Motor D</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+

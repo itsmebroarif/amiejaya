@@ -1,0 +1,29 @@
+{
+  "rewrites": [
+    {
+      "source": "/index",
+      "destination": "/"
+    },
+    {
+      "source": "/product",
+      "destination": "/product"
+    },
+    {
+      "source": "/promo",
+      "destination": "/promo"
+    },
+    {
+      "source": "/fasilitas",
+      "destination": "/fasilitas"
+    },
+    {
+      "source": "/lokasi",
+      "destination": "/lokasi"
+    },
+    {
+      "source": "/kontak",
+      "destination": "/kontak"
+    }
+  ]
+}
+
